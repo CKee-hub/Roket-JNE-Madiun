@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 // ── CREDENTIALS ───────────────────────────────────────────────────────────
-const ADMIN_CREDS = { username: "admin", password: "madiun2024" };
+const ADMIN_CREDS = { username: "admin", password: "rktmdn2024" };
 
 // ── COLOR PRESETS ─────────────────────────────────────────────────────────
 const COLOR_PRESETS = [
@@ -24,11 +24,11 @@ const HEADER_GRADIENTS = [
 
 // ── DEFAULT SITE SETTINGS ─────────────────────────────────────────────────
 const DEFAULT_SETTINGS = {
-  brandName: "MadiunEats",
-  tagline: "Kuliner lokal Madiun, pesan langsung ke warungnya",
+  brandName: "ROKEAT by JNE Madiun",
+  tagline: "Kuliner lokal Madiun, pesan langsung ke merchant",
   headerGradient: HEADER_GRADIENTS[0].value,
-  footerText: "Kuliner lokal Madiun · Pesan mudah, langsung ke warung",
-  footerCredit: "Dibuat dengan ❤️ untuk Madiun",
+  footerText: "Kuliner lokal Madiun · Pesan mudah, langsung ke merchant",
+  footerCredit: "Dibuat dengan ❤️ untuk Masyarakat Madiun",
   logoEmoji: "🛵",
   showSearch: true,
   showStats: true,
