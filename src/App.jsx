@@ -27,7 +27,7 @@ const DEFAULT_SETTINGS = {
   brandName: "ROKEAT by JNE Madiun",
   tagline: "Kuliner lokal Madiun, pesan langsung ke merchant",
   headerGradient: HEADER_GRADIENTS[0].value,
-  footerText: "Kuliner lokal Madiun · Pesan mudah, langsung ke merchant",
+  footerText: "Kuliner lokal Madiun · Pesan mudah · langsung ke merchant",
   footerCredit: "Dibuat dengan ❤️ untuk Masyarakat Madiun",
   logoEmoji: "🛵",
   showSearch: true,
